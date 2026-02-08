@@ -14,7 +14,7 @@
             "discord"
         ],
         "RepoUrl": "https://github.com/hocng015/QuickSwitch-Release",
-        "AssemblyVersion": "1.0.4.0",
+        "AssemblyVersion": "1.0.5.0",
         "InternalName": "QuickSwitch",
         "DalamudApiLevel": 14,
         "DownloadLinkInstall": "https://github.com/hocng015/QuickSwitch-Release/releases/latest/download/QuickSwitch.zip",
