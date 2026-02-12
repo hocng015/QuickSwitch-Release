@@ -13,6 +13,7 @@
             "quick switch",
             "discord"
         ],
+        "IconUrl": "https://raw.githubusercontent.com/hocng015/QuickSwitch-Release/master/icon.png",
         "RepoUrl": "https://github.com/hocng015/QuickSwitch-Release",
         "AssemblyVersion": "1.0.12.0",
         "InternalName": "QuickSwitch",
